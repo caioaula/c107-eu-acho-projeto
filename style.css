@@ -1,0 +1,37 @@
+body
+{
+  font-family: 'Sigmar', cursive;
+  background: #000000;
+}
+
+.header_div
+  {
+  background: white;
+  color: #ce00b9; 
+  }
+
+  .header_div p{
+    font-family: 'Sigmar', cursive;
+    color: rgb(232, 117, 10);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .main_div button{
+    font-family: 'Sigmar', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
+  .copy_right_footer {
+   position: fixed;
+   color: #000000;
+   bottom: 0;
+   width: 100%;
+   font-size: 18px;
+   background-color: #f5f5f5;
+   line-height: 3;
+   text-align: center;
+   text-shadow: 5px 5px 5px rgb(53, 2, 47);
+}
